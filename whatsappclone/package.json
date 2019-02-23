@@ -1,0 +1,36 @@
+{
+  "name": "whatsappclone",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "base-64": "^0.1.0",
+    "firebase": "^5.8.3",
+    "lodash": "^4.17.11",
+    "react": "^16.8.2",
+    "react-cool-tabs": "^1.1.6",
+    "react-dom": "^16.8.2",
+    "react-list-view": "^1.0.0",
+    "react-native": "^0.58.4",
+    "react-redux": "^6.0.0",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.1.5",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
